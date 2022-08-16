@@ -1,10 +1,10 @@
-## Practathon
+# Practathon
 
-###Problem Statement:
+## Problem Statement:
 
 Given 10M datapoints in form of vectors, each vector is of dimension as 100. Return 10 closest vectors to the given query vector in less than 1 sec latency – Query Time.  (Parameter: Euclidean Distance).
 
-####Language Used : C++ 11
+## Language Used : C++ 11
 GCC version : g++ (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
 
 OS Used: Microsoft Windows 11 Home Single Language, Version	10.0.22000 Build 22000
